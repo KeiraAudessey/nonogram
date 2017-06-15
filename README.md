@@ -1,3 +1,2 @@
 # nonogram
-Simple threaded program
-Created in Netbeans
+Simple threaded program, created in Netbeans.
